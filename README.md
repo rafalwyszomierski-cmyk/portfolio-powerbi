@@ -20,7 +20,7 @@ Junior Data Analyst | Doktor ekonomii | 6 lat w branży OZE
 ## 4. OZE vs Makroekonomia — Polska na tle UE-27 | 2000–2025
 
 <img width="800" alt="OZE vs Makroekonomia Dashboard" src="https://github.com/user-attachments/assets/3d795f63-3cb6-4c5f-8670-cc85f9ab005b" />
-<img width="800" alt="OZE Dashboard" src="https://github.com/user-attachments/assets/24c87eaa..." />
+<img width="800" alt="OZE vs Makroekonomia Dashboard" src="https://github.com/user-attachments/assets/24c87eaa-d165-4eaa-b701-b5e405417108" />
 <img width="800" alt="OZE vs Makroekonomia Dashboard" src="https://github.com/user-attachments/assets/ce50e6f9-7db9-4580-a3a6-52ba7b3b889e" />
 
 
