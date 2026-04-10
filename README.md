@@ -14,6 +14,11 @@ Analiza emisji dwutlenku węgla z podziałem na źródła, kraje i wskaźniki ma
 **Stack:** Power BI · DAX · Power Query  
 **Dane:** Our World in Data
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/dd1f40c6-3be2-4d8d-ae89-e5fd90391449" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/f8f6804f-a125-47f4-9376-6db7a6f31e62" />
+
+
+
 ---
 
 ### 2. Globalne trendy energii i emisji CO2
