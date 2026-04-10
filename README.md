@@ -39,3 +39,38 @@ dla 27 krajów UE w latach 2000–2025.
 
 ## Jak otworzyć?
 Pobierz plik .pbix i otwórz w Power BI Desktop (darmowy).
+
+## 5. Prognoza cen energii — Polska vs UE-27 (2025–2030)
+
+<img width="1412" height="772" alt="image" src="https://github.com/user-attachments/assets/e79f83f7-7e4c-479e-8920-3c6bea0509a7" />
+<img width="1422" height="791" alt="image" src="https://github.com/user-attachments/assets/84145836-0d35-42d1-88ee-4fc07642f651" />
+<img width="1416" height="793" alt="image" src="https://github.com/user-attachments/assets/17c5213c-3b54-4d72-a87a-cfa390fbc8ca" />
+
+Dashboard w Power BI z prognozami cen energii elektrycznej
+dla Polski i UE-27 do 2030 roku. Model Prophet (Meta)
+dla cen gospodarstw domowych i przemysłu.
+
+## Kluczowe wnioski
+Polska utrzyma niższe ceny dla gospodarstw domowych
+od średniej UE przez cały horyzont prognozy.
+Polska nie odzyska przewagi cenowej dla przemysłu przed 2030.
+Punkt przełomu 2023 — po raz pierwszy od 15 lat ceny
+dla przemysłu w Polsce przekroczyły średnią UE-27.
+
+## Dane
+Eurostat | nrg_pc_204, nrg_pc_205 | PL i EU27_2020 | 2007–2025
+
+## MAPE
+Gosp. domowe UE    18,4%
+Przemysł UE        22,1%
+Gosp. domowe PL    23,6%
+Przemysł PL        50,5%
+
+Wysoki MAPE wynika z kryzysu energetycznego 2022
+i inwazji Rosji na Ukrainę — nie z błędu modelu.
+
+## Stack
+Power BI, Python (Prophet), DAX, Power Query, MCP + Claude AI
+
+## Autor
+Rafał Wyszomierski | linkedin.com/in/rafal-wyszomierski
