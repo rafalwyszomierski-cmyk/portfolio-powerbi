@@ -27,6 +27,11 @@ Analiza długoterminowych trendów energetycznych i ich związku z emisjami CO2 
 
 **Stack:** Power BI · DAX
 
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/e6779813-8756-4390-bc39-80c260b99f36" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/3d3e8a8a-da65-4580-ad3a-ab4e0914d3c4" />
+
+
+
 ---
 
 ### 3. Rynek samochodów elektrycznych (2023)
@@ -34,6 +39,8 @@ Analiza długoterminowych trendów energetycznych i ich związku z emisjami CO2 
 Analiza rynku pojazdów elektrycznych — sprzedaż, udziały rynkowe i dynamika wzrostu.
 
 **Stack:** Power BI · DAX
+
+
 
 ---
 
