@@ -40,6 +40,8 @@ Analiza rynku pojazdów elektrycznych — sprzedaż, udziały rynkowe i dynamika
 
 **Stack:** Power BI · DAX
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a8ba251e-5c08-4b7f-9ad8-fb5c52804c96" />
+
 
 
 ---
