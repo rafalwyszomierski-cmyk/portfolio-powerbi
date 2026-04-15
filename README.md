@@ -102,3 +102,44 @@ Dashboard z prognozami cen energii elektrycznej dla Polski i UE-27 do 2030 roku,
 
 **Rafał Wyszomierski**  
 [linkedin.com/in/rafal-wyszomierski](https://linkedin.com/in/rafal-wyszomierski)
+
+
+### 6. ETS a ceny energii dla przemysłu w Polsce - analiza i scenariusz do 20230
+
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/d961b9f6-7dd4-43f6-89d1-98037f4dc7ea" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/fd02e355-568e-4ed3-beab-f6388c0e4e21" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/585ac8e1-5835-4156-9fdf-e0ff6b7653c2" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/40e08bfd-4523-45a4-be5f-3b4911c0aaab" />
+
+
+
+
+📊 ETS a ceny energii dla przemysłu w Polsce
+
+Analiza wpływu systemu EU ETS na ceny energii elektrycznej dla przemysłu w Polsce w latach 2010–2025 wraz ze scenariuszami do 2030 roku.
+
+Raport pokazuje, w jakim stopniu koszty uprawnień do emisji CO₂ przekładają się na ceny energii oraz czy Polska utraciła przewagę kosztową względem UE.
+
+🔍 Kluczowe wnioski
+EU ETS jest istotnym czynnikiem kosztotwórczym — regresja liniowa (OLS) wykazała R² = 0,79 oraz r = 0,89
+Wzrost ceny ETS o 10 EUR/t przekłada się na ok. +0,017 EUR/kWh dla przemysłu
+2023 rok to punkt przełomu — ceny energii dla przemysłu w Polsce przekroczyły średnią UE-27
+Polska utraciła historyczną przewagę kosztową dla przemysłu
+W 2025 koszt ETS stanowi ok. 21% ceny energii, reszta to paliwa, sieć i marże
+Scenariusze do 2030 wskazują różnicę ~0,10 EUR/kWh między wariantem niskiego i wysokiego ETS
+📈 Metodyka
+Regresja liniowa (OLS) — estymacja wpływu ETS na ceny energii
+Model scenariuszowy — symulacja ścieżek cen ETS do 2030
+Analiza dekompozycji ceny energii (ETS vs pozostałe koszty)
+📂 Dane
+Eurostat — ceny energii dla przemysłu
+Zakres: 2010–2025
+Klasa zużycia: 500–1 999 MWh
+Ceny netto (bez VAT i akcyzy)
+⚠️ Ograniczenia
+Model uwzględnia głównie wpływ ETS — brak jawnego ujęcia cen gazu i węgla
+Kryzys energetyczny 2021–2023 wpływa na błędy prognozy (MAPE)
+Model ma charakter analizy wrażliwości, nie pełnej prognozy rynku
+🛠️ Stack
+
+Power BI · Python (Prophet, numpy) · DAX · Power Query
