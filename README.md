@@ -127,19 +127,22 @@ Wzrost ceny ETS o 10 EUR/t przekłada się na ok. +0,017 EUR/kWh dla przemysłu
 Polska utraciła historyczną przewagę kosztową dla przemysłu
 W 2025 koszt ETS stanowi ok. 21% ceny energii, reszta to paliwa, sieć i marże
 Scenariusze do 2030 wskazują różnicę ~0,10 EUR/kWh między wariantem niskiego i wysokiego ETS
+
 📈 Metodyka
 Regresja liniowa (OLS) — estymacja wpływu ETS na ceny energii
 Model scenariuszowy — symulacja ścieżek cen ETS do 2030
 Analiza dekompozycji ceny energii (ETS vs pozostałe koszty)
+
 📂 Dane
 Eurostat — ceny energii dla przemysłu
 Zakres: 2010–2025
 Klasa zużycia: 500–1 999 MWh
 Ceny netto (bez VAT i akcyzy)
+
 ⚠️ Ograniczenia
 Model uwzględnia głównie wpływ ETS — brak jawnego ujęcia cen gazu i węgla
 Kryzys energetyczny 2021–2023 wpływa na błędy prognozy (MAPE)
 Model ma charakter analizy wrażliwości, nie pełnej prognozy rynku
-🛠️ Stack
 
+🛠️ Stack
 Power BI · Python (Prophet, numpy) · DAX · Power Query
